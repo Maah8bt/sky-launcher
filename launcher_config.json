@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "Sky-Baiak",
-	"newClientUrl" : "https://github.com/Maah8bt/sky-launcher-main/releases/download/client/client-to-update.zip",
+	"newClientUrl" : "https://github.com/Maah8bt/sky-launcher/releases/download/client/client-to-update.zip",
 	"clientExecutable": "client.exe"
 }
